@@ -1,2 +1,2 @@
 # QATasks
-take a look at my wiki 
+take a look at wiki 
