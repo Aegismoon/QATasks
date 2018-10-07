@@ -1,2 +1,2 @@
 # QATasks
-Some java simplest java Tasks for QAme and testing web forms
+Some of my simplest java Tasks for QA and testing web stuff
